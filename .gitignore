@@ -1,11 +1,5 @@
-examples
 node_modules
-.npmignore 
-yarn.lock
-README.md
-.idea
-__mocks__
-__tests__
-.babelrc
-.travis.yml
 coverage
+.babelrc
+.DS_Store
+.idea
